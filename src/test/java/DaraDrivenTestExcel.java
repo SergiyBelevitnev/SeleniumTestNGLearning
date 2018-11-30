@@ -38,8 +38,9 @@ public class DaraDrivenTestExcel extends BaseTest {
         if (isElementPresent(By.xpath("//*[@id=\"id-logout\"]"))) {
             Reporter.log("Username " + "'"+ username +"'" + " login test passed");
             BaseTest.getDriver().findElement(By.xpath("//*[@id=\"id-logout\"]")).click();
-        } else Reporter.log("Username" + username + "login failed");
 
+        } else { Reporter.log("Username" + username + "login failed");
+        }
         getDriver().close();
 
     }

@@ -582,7 +582,14 @@
       <change beforePath="$PROJECT_DIR$/../Axis-UI/reports/TEST-TestSuite.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Axis-UI/reports/TestSuite.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SoapUI/REST-Project-2-soapui-project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaraDrivenTestExcel-11.30.2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/DaraDrivenTestExcel-11.30.2018.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/createworkbook999.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/createworkbook999.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/BaseTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BaseTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DaraDrivenTestExcel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataDrivenTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataDrivenTestNG.class" afterDir="false" />
     </list>
     <ignored path="C:\Users\belevitnev\Desktop\testTest\.idea\shelf/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -602,24 +609,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="270" />
+          <entry key="java" value="295" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="270" />
+          <entry key="JAVA" value="295" />
         </counts>
       </usages-collector>
     </session>
@@ -647,10 +654,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="222" lean-forward="true" selection-start-line="222" selection-end-line="222" />
+            <state relative-caret-position="190">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2182#2183#0" expanded="true" />
+                <element signature="e#2217#2218#0" expanded="true" />
+                <element signature="e#3362#3363#0" expanded="true" />
+                <element signature="e#3389#3390#0" expanded="true" />
                 <element signature="e#6185#6186#0" expanded="true" />
                 <element signature="e#6220#6221#0" expanded="true" />
                 <element signature="e#6640#6641#0" expanded="true" />
@@ -669,11 +680,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="726">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -690,8 +701,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SingletonBrowserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="220">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -699,28 +710,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="66">
               <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/UsingExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#1929#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="550">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -733,9 +733,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java" />
         <option value="$PROJECT_DIR$/src/main/java/base/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java" />
       </list>
     </option>
   </component>
@@ -797,7 +797,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543573889073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543578576861" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -878,10 +878,24 @@
     <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 12h 11m 23s.xml">
       <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 13h 16m 45s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 13h 19m 03s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 13h 25m 50s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 13h 42m 13s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DDTesting_xml - 2018.11.30 at 13h 46m 54s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -889,7 +903,7 @@
       <window_info id="DB Browser" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Messages" weight="0.329718" />
@@ -898,7 +912,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -969,10 +983,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ApacheTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
         </state>
       </provider>
     </entry>
@@ -983,24 +1011,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="222" lean-forward="true" selection-start-line="222" selection-end-line="222" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6185#6186#0" expanded="true" />
-            <element signature="e#6220#6221#0" expanded="true" />
-            <element signature="e#6640#6641#0" expanded="true" />
-            <element signature="e#6715#6716#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="197">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1013,22 +1027,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SingletonBrowserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="220">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        <state relative-caret-position="190">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2182#2183#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#3362#3363#0" expanded="true" />
+            <element signature="e#3389#3390#0" expanded="true" />
+            <element signature="e#6185#6186#0" expanded="true" />
+            <element signature="e#6220#6221#0" expanded="true" />
+            <element signature="e#6640#6641#0" expanded="true" />
+            <element signature="e#6715#6716#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="726">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
