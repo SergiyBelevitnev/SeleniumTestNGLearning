@@ -200,5 +200,23 @@ public class BaseTest {
 
     }
 
+    public void openURL (String URL) {
+        getDriver().get(URL);
+    }
+    public void enterTextInTextField(String xPathExpression, String text){
+        By xPath = new By.ByXPath(xPathExpression);
+        getDriver().findElement(xPath).sendKeys(text);
+
+    }
+
+    public void switchToFrame (String xPathExpression){
+        getDriver().switchTo().frame(getDriver().findElement(By.xpath(xPathExpression)));
+
+    }
+
+    public void clickButton (String xPathExpression){
+        getDriver().findElement(By.xpath(xPathExpression)).click();
+    }
+
 }
 

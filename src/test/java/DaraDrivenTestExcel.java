@@ -12,10 +12,9 @@ public class DaraDrivenTestExcel extends BaseTest {
 
     @BeforeMethod
             public void setUp() {
-        BaseTest.LaunchBrowser("chrome");
-        getDriver().manage().window().maximize();
-        getDriver().get("https://www.ukr.net");
-        getDriver().switchTo().frame(getDriver().findElement(By.xpath("//*[@id='login-frame-wraper']/iframe")));
+        LaunchBrowser("chrome");
+        openURL("https://www.ukr.net");
+        switchToFrame("//*[@id='login-frame-wraper']/iframe");
 
     }
 
@@ -29,16 +28,18 @@ public class DaraDrivenTestExcel extends BaseTest {
 
     public void loginTest(String username, String password) {
 
-        getDriver().findElement(By.xpath("//*[@id=\"id-input-login\"]")).sendKeys(username);
-        getDriver().findElement(By.xpath("//*[@id=\"id-input-password\"]")).sendKeys(password);
-        getDriver().findElement(By.xpath("/html/body/form/div[6]/button")).click();
+        enterTextInTextField("//*[@id=\"id-input-login\"]", username);
+        enterTextInTextField("//*[@id=\"id-input-password\"]", password);
+        clickButton("/html/body/form/div[6]/button");
         goSleep(8000);
+
         Assert.assertTrue(getDriver().findElement(By.xpath("//*[@id=\"id-logout\"]")).isDisplayed());
+
         if (isElementPresent(By.xpath("//*[@id=\"id-logout\"]"))) {
             Reporter.log("Username " + "'"+ username +"'" + " login test passed");
             BaseTest.getDriver().findElement(By.xpath("//*[@id=\"id-logout\"]")).click();
-
         } else Reporter.log("Username" + username + "login failed");
+        
         getDriver().close();
 
     }
