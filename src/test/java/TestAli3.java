@@ -9,6 +9,7 @@ public class TestAli3 extends BaseTest {
     @Test
 
     private void testAli3() {
+        LaunchBrowser("chrome");
 
         base.BaseTest.getDriver().get("https://best.aliexpress.com/?lan=ru");
 

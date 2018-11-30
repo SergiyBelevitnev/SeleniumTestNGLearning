@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
+import org.testng.ITestResult;
 import org.testng.annotations.*;
 import org.testng.annotations.Listeners;
 
@@ -79,8 +80,10 @@ public class BaseTest {
 
         if ("chrome".equalsIgnoreCase(browser)) {
             WebDriverManager.chromedriver().setup();
-            driver = new ChromeDriver();
-            driver.manage().window().maximize();
+            SingletonBrowserClass sbc1= SingletonBrowserClass.getInstanceOfSingletonBrowserClass();
+            driver = sbc1.getDriver2();
+//            driver = new ChromeDriver();
+//            driver.manage().window().maximize();
         } else if ("firefox".equalsIgnoreCase(browser)) {
             WebDriverManager.firefoxdriver().setup();
             driver = new FirefoxDriver();
@@ -216,6 +219,20 @@ public class BaseTest {
 
     public void clickButton (String xPathExpression){
         getDriver().findElement(By.xpath(xPathExpression)).click();
+    }
+    @AfterMethod(alwaysRun = true)
+    public void closeWindow(ITestResult result) {
+        if (result.getStatus() == ITestResult.FAILURE) {
+            test.get().fail(result.getThrowable());
+            Reporter.logFail("Test FAILED");
+        } else if (result.getStatus() == ITestResult.SKIP)
+            test.get().skip(result.getThrowable());
+        else
+            test.get().pass("Test passed");
+
+        ExtentManager.getInstance(suiteName).flush();
+
+        Reporter.log("Stopping tests");
     }
 
 }

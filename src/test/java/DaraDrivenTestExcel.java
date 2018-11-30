@@ -6,15 +6,17 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import pageobject.LoginUkrnet;
 import utils.ExcelUtil;
 
 public class DaraDrivenTestExcel extends BaseTest {
+    public static LoginUkrnet loginUkrnet;
 
     @BeforeMethod
             public void setUp() {
-        LaunchBrowser("chrome");
         openURL("https://www.ukr.net");
-        switchToFrame("//*[@id='login-frame-wraper']/iframe");
+        loginUkrnet = new LoginUkrnet(getDriver());
+        loginUkrnet.switchToFrame();
 
     }
 
@@ -28,20 +30,15 @@ public class DaraDrivenTestExcel extends BaseTest {
 
     public void loginTest(String username, String password) {
 
-        enterTextInTextField("//*[@id=\"id-input-login\"]", username);
-        enterTextInTextField("//*[@id=\"id-input-password\"]", password);
-        clickButton("/html/body/form/div[6]/button");
-        goSleep(8000);
+        loginUkrnet.inputLogin(username);
+        loginUkrnet.inputPassword(password);
+        loginUkrnet.clickLoginButton();
 
-        Assert.assertTrue(getDriver().findElement(By.xpath("//*[@id=\"id-logout\"]")).isDisplayed());
+        goSleep(1000);
 
-        if (isElementPresent(By.xpath("//*[@id=\"id-logout\"]"))) {
-            Reporter.log("Username " + "'"+ username +"'" + " login test passed");
-            BaseTest.getDriver().findElement(By.xpath("//*[@id=\"id-logout\"]")).click();
-
-        } else { Reporter.log("Username" + username + "login failed");
-        }
-        getDriver().close();
+        Assert.assertTrue(loginUkrnet.logoutButton.isDisplayed());
+        loginUkrnet.clickLogoutButton();
+        Reporter.log("Username " + "'"+ username +"'" + " login test passed");
 
     }
 
