@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543565274340" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/testAli2.xml">
+    <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/testAli2.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/testAli2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" />
+      <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/testAli2.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/testAli2.xml" />
+        <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
