@@ -26,6 +26,10 @@ public class Test2 extends BaseTest {
         element2.click();
         Reporter.log("clicking item");
 
+        String a = "something";
+        String b = new StringBuffer(a).reverse().toString();
+        System.out.print(b);
+
 //        element.submit();
         Reporter.log("creating search");
         goSleep(8000);

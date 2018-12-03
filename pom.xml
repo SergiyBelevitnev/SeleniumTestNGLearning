@@ -30,6 +30,13 @@
     <!--</build>-->
 
     <dependencies>
+              <!--&lt;!&ndash; https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server-standalone &ndash;&gt;-->
+        <!--<dependency>-->
+        <!--<groupId>org.seleniumhq.selenium</groupId>-->
+        <!--<artifactId>selenium-server-standalone</artifactId>-->
+        <!--<version>2.53.0</version>-->
+        <!--</dependency>-->
+
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>

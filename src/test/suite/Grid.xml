@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GridTest">
+    <test name="GridTest">
+
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+            <class name="GridTest">
+
+
+
+            </class>
+
+        </classes>
+    </test>
+</suite>

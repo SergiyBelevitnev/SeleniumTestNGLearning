@@ -12,6 +12,9 @@ public class TestAli3 extends BaseTest {
         LaunchBrowser("chrome");
 
         base.BaseTest.getDriver().get("https://best.aliexpress.com/?lan=ru");
+        String a = "something";
+        String с = new StringBuffer(a).reverse().toString();
+        System.out.print(с);
 
         Reporter.log("open browser");
         String pathCategory = "//*[@id=\"home-firstscreen\"]/div/div[2]/div/div[2]/dl[3]/dt/span/a";
