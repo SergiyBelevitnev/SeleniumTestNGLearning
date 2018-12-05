@@ -203,7 +203,7 @@ public class BaseTest {
 
     }
 
-    public void openURL (String URL) {
+    public static void openURL (String URL) {
         getDriver().get(URL);
     }
     public void enterTextInTextField(String xPathExpression, String text){
