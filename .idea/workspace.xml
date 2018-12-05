@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7031de-00b5-4225-8faf-622c29f304a7" name="Default Changelist" comment="IDEA Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2634a414-7a09-4e7d-9390-843a3804ecdf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2bfe1c6a-c88c-49b4-acc0-ca507d7472c0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/52541c7a-9afe-4e9f-afc0-d8c7f4b96f50-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/56f81f58-c460-419b-9537-6aa268f1c152-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5f245cd1-f086-476e-976c-25e95ec0a352-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6760683d-a4b0-4dcf-b0b9-acc8dfb03b62-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6a5ecc30-8230-4a95-8434-0d223b8c39a4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/70d4e6d8-1326-4112-8676-a9351a7698b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7a9ab8e8-908d-4ff4-bfe3-e7fb5cc9be99-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/823db2c2-bfc6-4ab9-8cac-d10c2ea2f27d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8b4480c6-0554-4f2d-bd25-071253c9911d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/96ae9697-1555-4528-b85e-81b93173eb6c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98363bf9-78d7-4cad-a57f-7496dab408a3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9dc9526f-8e04-4347-b3fe-19a6b3a490a1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a499c63a-a59b-4fc1-9bf5-849f1e420fd8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c37a7497-84f3-4d7a-9ff7-9ffbd60f765f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d286f932-78ec-464b-857e-0f462c454045-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d47e1003-b3ec-4c26-a5ab-b507331473a1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d49f051c-c35d-4269-89b4-b0abfe4f0963-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d654170a-0b46-444c-8910-225eda64f287-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d804c50e-01f5-4d50-afb7-561fa24337b7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e4f33fc7-e5ab-4d04-a13b-ec49b4b38b19-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ee53dc1f-3f0a-48f0-9b2b-76efb70c2a21-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f7753ec4-7a5a-4115-bafd-6e5372bd3a8a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/LoginStep.java" afterDir="false" />
+    <list default="true" id="6b7031de-00b5-4225-8faf-622c29f304a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="C:\Users\belevitnev\Desktop\testTest\.idea\shelf/" />
@@ -88,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="136" column="79" selection-start-line="136" selection-start-column="79" selection-end-line="136" selection-end-column="79" />
+            <state relative-caret-position="552">
+              <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -319,7 +292,7 @@
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="SearchEverywhereHistoryKey" value="selenium_grid&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544000311070" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544001236300" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -446,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543999978159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IDEA Commit">
+      <created>1544000332092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544000332092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -500,10 +480,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -828,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="136" column="79" selection-start-line="136" selection-start-column="79" selection-end-line="136" selection-end-column="79" />
+        <state relative-caret-position="552">
+          <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
         </state>
       </provider>
     </entry>
