@@ -64,7 +64,7 @@ public class LoginStep {
 //        System.out.println(data.get(2).get(0));
 //        System.out.println(data.get(2).get(1));
 
-        List<User> users = new ArrayList<User>();
+        List<User> users;
             users=table.asList(User.class);
 //        List<User> users =new ArrayList<>();
 //        users = table.asList(User.class);
@@ -77,6 +77,12 @@ public class LoginStep {
 
 
 
+    }
+
+    @And("^I enter ([^\"]*) and ([^\"]*)$")
+    public void iEnterUsernameAndPassword(String userName, String password) throws Throwable {
+        System.out.println("UserName is: " + userName);
+        System.out.println("Password is: " + password);
     }
 
 

@@ -25,8 +25,7 @@ public class ExtentManager {
         Date dNow = new Date();
                 SimpleDateFormat ft = new SimpleDateFormat("MM.dd.yyyy");
 
-        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter( suiteName+"-"+ft.format(dNow)+".html");
-
+        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter( "target/extent-reports/" + suiteName+"-"+ft.format(dNow)+".html");
 
 
 //        Date date = new Date();
@@ -43,6 +42,8 @@ public class ExtentManager {
         htmlReporter.config().setDocumentTitle("Acceptance Tests");
         htmlReporter.config().setEncoding("utf-8");
         htmlReporter.config().setReportName("erer");
+
+//        htmlReporter.config().setFilePath("src/test/extentreports");
 
 
         extent = new ExtentReports();

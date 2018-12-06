@@ -14,7 +14,7 @@ public class ExcelUtil {
     static Workbook book;
     static Sheet sheet;
 
-    public static String TESTDATA_SHEET_PATH = "C:\\Users\\belevitnev\\Desktop\\testTest\\createworkbook999.xlsx";
+    public static String TESTDATA_SHEET_PATH = "files/createworkbook999.xlsx";
 
     public static Object[][] getTestData (String sheetName){
         FileInputStream file = null;
