@@ -6,7 +6,7 @@ Feature: LoginFeature
     And I enter the following for Login
       | username      | password          |
       | belevitnev    | 3109703178        |
-#      | belevitnevalv | 3109703178        |
+      | belevitnevalv | 3109703178        |
 #      | belevitnevaov | 3109703178        |
 #      | belevitnev01  | belevitnevQwerty1 |
 #      | belevitnev02  | belevitnevQwerty1 |
