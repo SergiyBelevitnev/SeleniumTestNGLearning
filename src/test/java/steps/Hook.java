@@ -1,8 +1,13 @@
 package steps;
 
 import BaseCucumber.BaseUtil;
+import base.BaseTest;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
+
+import static base.BaseTest.LaunchBrowser;
+import static base.BaseTest.getDriver;
+import static base.BaseTest.openURL;
 
 public class Hook extends BaseUtil {
 
@@ -13,8 +18,11 @@ public class Hook extends BaseUtil {
     }
 
     @Before
-    public void InitializeTest()
-    {
+    public void InitializeTest() throws InterruptedException {
+
+        LaunchBrowser("chrome");
+//        Thread.sleep(8000);
+        openURL("https://www.ukr.net");
 
 
     }
@@ -22,6 +30,8 @@ public class Hook extends BaseUtil {
     @After
     public void TearDownTest()
     {
+//      getDriver().quit();
+
 
     }
 }

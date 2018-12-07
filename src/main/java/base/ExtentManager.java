@@ -25,7 +25,7 @@ public class ExtentManager {
         Date dNow = new Date();
                 SimpleDateFormat ft = new SimpleDateFormat("MM.dd.yyyy");
 
-        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter( "target/extent-reports/" + suiteName+"-"+ft.format(dNow)+".html");
+        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter( "target/" + suiteName+"-"+ft.format(dNow)+".html");
 
 
 //        Date date = new Date();

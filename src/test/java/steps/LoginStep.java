@@ -15,16 +15,6 @@ import java.util.List;
 public class LoginStep extends BaseTest {
     public static LoginUkrnet loginUkrnet;
 
-    public static void setUp(){
-        LaunchBrowser("chrome");
-        openURL("https://www.ukr.net");
-        loginUkrnet = new LoginUkrnet(getDriver());
-        loginUkrnet.switchToFrame();
-
-
-//    loginUkrnet.switchToFrame();
-    }
-
     private BaseUtil base;
 
     public LoginStep(BaseUtil base) {
@@ -33,20 +23,16 @@ public class LoginStep extends BaseTest {
 
     @And("^I enter the username as admin and password as password$")
     public void iEnterTheUsernameAsAdminAndPasswordAsAdmin(String username, String password) throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-//        throw new PendingException();
+
         Reporter.log("I enter the username as admin and password as admin");
         System.out.println("I enter the username as admin and password as admin");
     }
 
     @Given("^I navigate to the login page$")
     public void iNavigateToTheLoginPage() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-//        throw new PendingException();
-        System.out.println("I OPEN login PAGE");
-//        BaseTest.LaunchBrowser("chrome");
-//        BaseTest.openURL("https://www.ukr.net");
-        setUp();
+
+        loginUkrnet = new LoginUkrnet(getDriver());
+        loginUkrnet.switchToFrame();
 
     }
 
@@ -72,9 +58,9 @@ public class LoginStep extends BaseTest {
 
     @And("^I enter the username as \"([^\"]*)\" and password as \"([^\"]*)\"$")
     public void iEnterTheUsernameAsAndPasswordAs(String arg0, String arg1) throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
+
         System.out.println("!!!!I enter the username as admin and password as admin");
-//        throw new PendingException();
+
     }
 
     @And("^I enter the following for Login$")
@@ -82,8 +68,6 @@ public class LoginStep extends BaseTest {
 
 
 //        List<List<String>> data =  table.raw();
-//
-//
 //        System.out.println(data.get(0).get(0));
 //        System.out.println(data.get(0).get(1));
 //        System.out.println(data.get(1).get(0));
@@ -92,22 +76,14 @@ public class LoginStep extends BaseTest {
 //        System.out.println(data.get(2).get(1));
 
         List<User> users;
-            users=table.asList(User.class);
+        users = table.asList(User.class);
 //        List<User> users =new ArrayList<>();
 //        users = table.asList(User.class);
-        for (User user: users){
+        for (User user : users) {
             loginUkrnet.inputLogin(user.username);
             loginUkrnet.inputPassword(user.password);
 
-
-
-
-//            System.out.println(user.username);
-//            System.out.println(user.password);
-
         }
-
-
 
 
     }
@@ -115,13 +91,8 @@ public class LoginStep extends BaseTest {
     @And("^I enter ([^\"]*) and ([^\"]*)$")
     public void iEnterUsernameAndPassword(String username, String password) throws Throwable {
 
-
-            loginUkrnet.inputLogin(username);
-            loginUkrnet.inputPassword(password);
-
-
-
-
+        loginUkrnet.inputLogin(username);
+        loginUkrnet.inputPassword(password);
 
     }
 
