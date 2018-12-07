@@ -2,9 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b7031de-00b5-4225-8faf-622c29f304a7" name="Default Changelist" comment="IDEA Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00369da3-b88f-478b-ac4a-65f5092c3d51-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0076e292-3e60-46be-b5b8-2f25cdbc8a55-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02c11f84-2fe0-4ce0-a184-77090957a12b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/06616b0a-46b1-4799-9561-831611123c23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a478c8f-9105-4006-994d-914e74e78b83-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0be328de-9078-4864-bea6-45c01a2796ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0f8e3c2c-096b-407b-9de8-cdc32a32e5e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/125a91c9-966f-404d-9b24-97cd11606766-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1525087b-8947-4f9b-a3cc-b5c3771f5abb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1637166f-365f-4320-9aad-67d6bae81fd7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/19390514-c1b8-4174-b218-2171c562c098-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b5a16f7-75f2-4fd4-8f50-e770e6bca1e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1dad66df-7098-4463-b4d5-0071ff626845-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20c371de-b4b9-45a3-abfb-c0c29540393b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/21115641-0b02-4028-b368-a356b7c950de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2395d2f0-3f4d-494a-96b5-edef670249bf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23ce8537-c711-48ce-9c3f-faf77f914472-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2431311f-2d27-47f5-995f-837469b0f749-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/245fb644-8a02-473f-a500-8fe9d868e193-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/24c97b28-a73e-4d6a-9c05-d5c8b96f1a1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/269790d5-cb55-4d5a-aa35-271453acf76d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2824aab1-203d-4e74-b8b6-31528038a1d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2c9102ff-1a63-417b-bcd5-5ebd10a81514-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e1ee3d2-7596-4969-b216-d0316f4c5714-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e69bc9d-16ad-412e-83a8-9b460444781b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30631cc7-3297-4f83-94bc-e96ac2ee178c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3114f7c6-3cac-4573-967c-3b2b86dc53d6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/321a3be9-b01b-44d7-bd54-1c9cbf4d5acc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32552e15-b271-41ea-8928-ff01fa6e1c41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3712aae7-58ee-47a3-8257-97dfb1e51c1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/395feade-df18-48b2-b95b-b892c077ab05-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3d6e6cd3-4cd4-491b-8bb0-f12e4b02e8d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e75e1d8-2dfb-4afb-96bb-a642c804be7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ffd5664-5822-4c1f-b378-320f9c4b12ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/411eebe5-cdf5-42ac-9220-8c69c6162280-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/419394fb-ef2e-42e5-a773-1a13b3f11f16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42197675-68ef-431f-89b9-ce2904167730-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42d1ff74-efc2-4879-a2fa-4daacaf578c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43ae6a9a-6a9b-4620-afdc-413c21114bb7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/44173857-886d-43d5-9b1a-aec7ceff905e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46cdc536-befc-477a-bd9d-d6f585c7c3d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c8f8152-1936-4a86-8c4c-c03e44302cdb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4d2af1b2-cdaa-4a7e-9524-2af8b53feee7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4e181874-897e-42cc-ae99-89509a59c925-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50e4b30e-acf9-4cc6-b8ef-97411e01ff5d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5183d371-a630-4fdd-b00c-e1289b5fe9e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5311e0e5-3e20-4bbc-a06c-49f282cb4992-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/552b90e6-bccb-410a-9ec9-554e05d0036e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/55a0ae5c-dcc1-4c3e-871f-abe11d8a3c20-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/570b6d0b-1cbe-4154-809e-de9c6f501f07-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57399805-170c-4107-b063-f4137ed9c3e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5b51f8a3-0491-48b3-a367-bae08fc5f5a1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c4bdbf6-2fe8-476c-80ff-8637bfd14cd5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c736e32-b427-4f3f-a572-a5a20b49579f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d50d2e4-ef1d-41f0-89bd-945b1b561d1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/652d8458-902e-4658-b3af-dd404f59aea2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/654c9d73-d558-4172-ada5-ee9157f140e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68ad9f8f-c1ef-4442-90d3-2079ad866fa9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a0ad6e2-67cc-4f24-af81-edbcb31dde86-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a311c21-78dc-4dc4-a53c-e2ad94322e8f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6aaecce6-a4c8-45ca-a411-9066b0909c84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6beb4af8-6798-43a3-ba61-5b582b6b7b84-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bfba6dd-373c-43a0-a223-51035d05822d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c59f0df-80f7-4167-8cfc-7b711e4c6454-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ccb6712-8d4e-4259-9a25-1a7cff60d316-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f31d302-364e-4662-a1b8-57398b8606e3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ffe7de5-104d-423d-892a-61f2144699f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/732fe539-0313-4c7e-bc12-b73a65e422a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/73e04d43-a7aa-49a2-8605-213757d9b0a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/74c99b84-fe94-4583-9bce-ce79d39e1f3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/759fe18b-e2d9-405f-8b1e-e041ece4c6e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/77adf2f4-8ae8-4c44-a7c3-fc55ae7ef182-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/792eff41-4508-41d6-919e-7e720dacba2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79314f60-6de1-435c-ba1a-cb7fbbfab791-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7942a942-d941-4aaa-97d9-90203df9b403-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7abb66dc-d5b9-4cb5-b3eb-b7a9880da66b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b3e5bca-1447-4e2a-b3c2-9d803936e41d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e299aae-e38d-40f2-b7b5-c962775f7f10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7eacfca3-bcdd-4cb3-828d-0ed1db41bd54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f990f33-1f69-4bf6-9aa9-1d83f89dbb1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80b836c0-85a3-445d-b470-2cc0b6134170-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/816d8f2e-d271-4b78-b020-e31fcc201262-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/82877559-68a5-4bb4-a409-4320ba368e9c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/82f86fae-22c3-4e6d-bc16-45c05f58cec2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83a2f7c2-2c55-4e54-9ae1-d85218d00227-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83cf1f7e-e547-4b59-814c-3dab196dffee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84723998-255f-4414-8bbe-fca0f5965815-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a1a0457-1b2d-48b0-95e3-679884fc02f5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a25daf6-019d-4e3a-9798-55b692990c6e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c42473a-7e57-470f-b630-7d7c4c8b3621-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8cefd9a4-2aa9-4562-b6fb-f362b930606a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e0aeb5b-b214-47aa-9e51-e6bdd5b6e4db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f389d9c-38da-419b-b910-0a5b71b10660-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/902f07a7-8922-4dd9-b99f-42bc54539494-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/973bc32d-8011-497c-845f-c50a5194a48b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a17289df-03ab-4050-99e5-e9c63da24b0c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8ec4110-0da4-4b83-88d2-849365c39bfe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a99e51ca-bc7b-4a73-aeb6-4900a2713a37-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab298f01-57c7-40a5-9916-08f527616acc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac260954-535d-427b-ade8-af21bc1f6381-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ada477c5-8dc7-4475-b762-2163e7e9e6b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b0715a56-84e7-4fd3-a764-70c1edbedd3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b22fa8cd-1d1f-4622-b377-e3fe884ce919-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b27b5ef6-cc56-47c7-99f6-7f19de88b0ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3be1314-91ac-4712-b15f-d3919df6aa31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9e6bac5-ebbe-4423-a521-5f7f21367d1f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bb24266f-17da-4146-b918-db9ca8048464-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bb4a332f-5d2f-4c75-8175-889195ecb4c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd9c7910-0dce-44d2-ae8b-231c9808a811-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be4f333e-8b39-4b8c-81c6-d628e4934f64-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf8ca762-20ef-4529-b644-9d07279bf6ba-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c136656b-677d-480f-ab85-5c64a6bc23b2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1a4cdb3-08fe-4dc7-9fb5-dd87f123fe74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1c338b4-53af-4070-b993-0f9ea77955ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c20d2636-4fcd-44c4-ae35-d4b3f765723e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c2b20761-6053-48d3-a892-dcb1ab6857b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c319f875-13f5-4809-bdb3-a2c7190387a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c4089342-8e25-425d-b679-206d18f8e75d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5e972e9-1cd1-4032-88cd-bc6803caf656-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c6964fe1-bdd2-4a4c-af46-1fa5135a303d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c6a6ebdf-af72-4011-aa29-b28e8cfa3ff5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c7cf8053-6178-444a-9bbe-2bebcc3330d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c8a1970d-a28a-46d0-bfe4-5540d8248a63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9e62cd9-c1e3-4bfd-a1f1-c3e0fc1d7086-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca22aced-fc4e-450e-9222-151af2e4dd29-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca37a8ca-8747-4326-a706-44dc510cb3ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cac196b1-35a1-4e06-9a4a-55a3402a7218-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb9f484a-d5ae-4d01-a88d-622739f88bcf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cf797a81-49ed-4bea-b3a2-631d33043275-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4338b6d-231c-4577-be90-f9aad23c82b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d66cf90d-736b-4bcb-8d0a-17a48e92049d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6ceea1f-6e82-4ab8-8709-6ab2552de0eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d73fa707-3608-48cc-ae30-313be9ca6036-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da57274a-ba7f-43b1-9c5d-a733a4107b50-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dae1b471-e501-4b4f-ae11-fbb3f9b71c34-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc944165-112d-4d8c-a56d-6706f9b9682b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df95f93c-44e6-4d86-80a7-695c95ac6291-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0467635-956e-452e-89ce-a63671579eb8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e35d208a-a7e0-4682-a9b1-992e3443b7f1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e565ecda-cdf1-4f44-8a8a-31f7b028232c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e67ef96a-39d5-4626-ac25-ba0e36978b79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea7a7bf0-2232-410b-9ece-0d67d511f4c8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eac03e16-8556-408d-8076-5b4d6a87080b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee13cbee-5c4c-4366-9dda-9159b3dcda73-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f13b421b-5450-4d3e-b0c1-d9f97f8753aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f4f1b174-a024-499f-984d-a171958c31d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f589b427-4a54-4aea-989b-8c379659c148-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f58fb39d-4761-4874-9262-573989ea3d69-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb172999-e130-460f-bcba-7a07cefe93cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb6737c3-728a-483a-8361-5882a10168e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb83644e-d4b9-4c52-9645-bc858745e948-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc057155-185c-40d8-a9cd-e8512ad39d89-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdb4f897-8d6c-498a-a418-bd03aa0bbdcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fec9219d-cd21-4220-9696-aa27be94fe88-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2018_19_01_[23_11_18]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2018_19_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2018_19_01__23_11_18_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2018_19_01__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/LoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" afterDir="false" />
     </list>
     <list id="d5a4e5d8-1d3e-47b3-b198-9569f90c873f" name="IDEA Commit notebook" comment="IDEA Commit notebook&#10;&#10;(cherry picked from commit 23c4f693986e23fb547f38a3999069f0105bcb83)">
       <changelist_data name="Sergiy Belevitnev4" email="belevitnevsv4@gmail.com" date="1544002891000" />
@@ -35,8 +195,8 @@
           <entry key="feature" value="2" />
           <entry key="html" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="41" />
-          <entry key="xml" value="10" />
+          <entry key="java" value="43" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -45,24 +205,24 @@
           <entry key="Cucumber" value="2" />
           <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="41" />
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="43" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="feature" value="547" />
-          <entry key="java" value="1690" />
+          <entry key="feature" value="549" />
+          <entry key="java" value="1858" />
           <entry key="txt" value="29" />
-          <entry key="xml" value="47" />
+          <entry key="xml" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="547" />
-          <entry key="JAVA" value="1690" />
+          <entry key="Cucumber" value="549" />
+          <entry key="JAVA" value="1858" />
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="XML" value="47" />
+          <entry key="XML" value="48" />
         </counts>
       </usages-collector>
     </session>
@@ -92,20 +252,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Features/login.feature">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="44" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="110">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Steps/LoginStep.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="180">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#614#615#0" expanded="true" />
@@ -116,53 +276,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="18" column="36" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GridTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            <state relative-caret-position="482">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/suite/DDTestingExcell.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/Hook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BaseCucumber/BaseUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="373">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
                 <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/Reporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -182,14 +325,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageobject/LoginUkrnet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="373">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1120#1121#0" expanded="true" />
                 <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
                 <element signature="e#1246#1247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,7 +362,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2213#2214#0" expanded="true" />
@@ -246,11 +409,15 @@
         <option value="$PROJECT_DIR$/src/main/java/base/ExtentManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/BaseCucumber/BaseUtil.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Steps/Java8VersionSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Features/login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Steps/LoginStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Features/login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/Hook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/login.feature" />
       </list>
     </option>
   </component>
@@ -277,6 +444,69 @@
               <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="testTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -286,7 +516,7 @@
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="SearchEverywhereHistoryKey" value="selenium_grid&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544166333609" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544172678234" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -309,7 +539,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: login">
+  <component name="RunManager" selected="TestNG.TestRunner">
+    <configuration name="Feature: login (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Selenium" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/login.feature" />
@@ -338,16 +586,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Itsmy/Desktop/Projects/testTest/SeleniumTestNGLearning/src/test/suite/DataDriverTestNG.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestNGLearning" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTestingExcell.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/DDTestingExcell.xml" />
@@ -358,12 +596,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridTest.gridTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRunner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GridTest" />
-      <option name="METHOD_NAME" value="gridTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
       <properties />
       <listeners />
       <method v="2">
@@ -372,18 +614,18 @@
     </configuration>
     <list>
       <item itemvalue="Cucumber java.Feature: login" />
-      <item itemvalue="TestNG.GridTest.gridTest" />
       <item itemvalue="TestNG.C:/Users/Itsmy/Desktop/Projects/testTest/SeleniumTestNGLearning/src/test/suite/DDTesting.xml" />
-      <item itemvalue="TestNG.C:/Users/Itsmy/Desktop/Projects/testTest/SeleniumTestNGLearning/src/test/suite/DataDriverTestNG.xml" />
       <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTestingExcell.xml" />
+      <item itemvalue="TestNG.TestRunner" />
+      <item itemvalue="Cucumber java.Feature: login (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: login (1)" />
         <item itemvalue="Cucumber java.Feature: login" />
         <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTestingExcell.xml" />
         <item itemvalue="TestNG.C:/Users/Itsmy/Desktop/Projects/testTest/SeleniumTestNGLearning/src/test/suite/DDTesting.xml" />
-        <item itemvalue="TestNG.C:/Users/Itsmy/Desktop/Projects/testTest/SeleniumTestNGLearning/src/test/suite/DataDriverTestNG.xml" />
-        <item itemvalue="TestNG.GridTest.gridTest" />
       </list>
     </recent_temporary>
   </component>
@@ -440,46 +682,60 @@
       <option name="project" value="LOCAL" />
       <updated>1544115389068</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="IDEA Commit">
+      <created>1544166301380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544166301380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="IDEA Commit">
+      <created>1544166422903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544166422903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__login - 2018.12.06 at 17h 48m 57s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="TestRunner - 2018.12.07 at 09h 47m 27s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 49m 32s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 09h 48m 55s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 50m 46s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="TestRunner - 2018.12.07 at 09h 56m 30s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 52m 21s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="TestRunner - 2018.12.07 at 09h 58m 28s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 53m 11s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 10h 04m 52s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 54m 07s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 10h 18m 36s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 17h 56m 12s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 10h 21m 12s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 18h 15m 40s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 10h 22m 56s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 18h 17m 42s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__login_(1) - 2018.12.07 at 10h 24m 39s.xml">
+      <configuration name="Feature: login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__login - 2018.12.06 at 18h 18m 32s.xml">
-      <configuration name="Feature: login" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="TestRunner - 2018.12.07 at 10h 27m 52s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.25266525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -489,12 +745,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -757,13 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/Reporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/aventstack/extentreports/3.0.2/extentreports-3.0.2.jar!/com/aventstack/extentreports/reporter/configuration/ExtentHtmlReporterConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -807,13 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Java8VersionSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -831,20 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BaseCucumber/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -856,53 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="18" column="36" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2213#2214#0" expanded="true" />
-            <element signature="e#2248#2249#0" expanded="true" />
-            <element signature="e#6367#6368#0" expanded="true" />
-            <element signature="e#6403#6404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Features/login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="44" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/LoginStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobject/LoginUkrnet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,8 +1099,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GridTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        <state relative-caret-position="482">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Reporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+            <element signature="e#6367#6368#0" expanded="true" />
+            <element signature="e#6403#6404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageobject/LoginUkrnet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/Hook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
