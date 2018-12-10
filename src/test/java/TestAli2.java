@@ -21,8 +21,11 @@ public class TestAli2 extends BaseTest {
         explicitWaitPresenceOfElement(xpath);
         WebElement element = base.BaseTest.getDriver().findElement(By.xpath(xpath));
 
+
         Reporter.log("clicking item");
         element.click();
+
+
 
 
 

@@ -2,6 +2,7 @@ package base;
 
 import com.aventstack.extentreports.ExtentTest;
 import com.google.common.base.Function;
+import com.google.common.base.Predicate;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -66,7 +67,7 @@ public class BaseTest {
     }
 
     public void selectCheckBox(String xpath) {
-        WebElement element= driver.findElement(By.xpath(xpath));
+        WebElement element = driver.findElement(By.xpath(xpath));
 
         JavascriptExecutor executor = (JavascriptExecutor) driver;
         executor.executeScript("arguments[0].click();", element);
@@ -80,7 +81,7 @@ public class BaseTest {
 
         if ("chrome".equalsIgnoreCase(browser)) {
             WebDriverManager.chromedriver().setup();
-            SingletonBrowserClass sbc1= SingletonBrowserClass.getInstanceOfSingletonBrowserClass();
+            SingletonBrowserClass sbc1 = SingletonBrowserClass.getInstanceOfSingletonBrowserClass();
             driver = sbc1.getDriver2();
 //            driver = new ChromeDriver();
 //            driver.manage().window().maximize();
@@ -115,7 +116,7 @@ public class BaseTest {
         return BaseTest.getDriver().findElement(element);
     }
 
-    public void moveToElement(String xpath){
+    public void moveToElement(String xpath) {
         Actions action = new Actions(driver);
         WebElement element = driver.findElement(By.xpath(xpath));
         action.moveToElement(element);
@@ -125,9 +126,7 @@ public class BaseTest {
     }
 
 
-
-
-  // Waiters
+    // Waiters
 
     public void goSleep(int time) {
         try {
@@ -162,32 +161,32 @@ public class BaseTest {
 
                 base.Reporter.log("Searching for the element, scrolling");
                 WebElement element = arg0.findElement(By.xpath(xpath));
-                if (element != null) { base.Reporter.log("Element found");     }
-                return element;}
+                if (element != null) {
+                    base.Reporter.log("Element found");
+                }
+                return element;
+            }
         };
         wait2.until(function);
     }
 
 
-
-    public void explicitWaitPresenceOfElement(String xpath){
+    public void explicitWaitPresenceOfElement(String xpath) {
         WebElement dynamicElement = (new WebDriverWait(driver, 10))
                 .until(ExpectedConditions.presenceOfElementLocated(By.xpath(xpath)));
         base.Reporter.log("Explicit wait performed");
     }
 
 
-
     public void waitForPresenceOfElement(By element) {
         WebElement dynamicElement = (new WebDriverWait(driver, 10))
-        .until(ExpectedConditions.presenceOfElementLocated(element));
+                .until(ExpectedConditions.presenceOfElementLocated(element));
     }
 
     public void waitUntilElementBeVisible(By element) {
         WebElement dynamicElement = (new WebDriverWait(driver, 10))
                 .until(visibilityOf(findElement(element)));
     }
-
 
 
     public boolean isElementPresent(By element) {
@@ -203,23 +202,25 @@ public class BaseTest {
 
     }
 
-    public static void openURL (String URL) {
+    public static void openURL(String URL) {
         getDriver().get(URL);
     }
-    public void enterTextInTextField(String xPathExpression, String text){
+
+    public void enterTextInTextField(String xPathExpression, String text) {
         By xPath = new By.ByXPath(xPathExpression);
         getDriver().findElement(xPath).sendKeys(text);
 
     }
 
-    public void switchToFrame (String xPathExpression){
+    public void switchToFrame(String xPathExpression) {
         getDriver().switchTo().frame(getDriver().findElement(By.xpath(xPathExpression)));
 
     }
 
-    public void clickButton (String xPathExpression){
+    public void clickButton(String xPathExpression) {
         getDriver().findElement(By.xpath(xPathExpression)).click();
     }
+
     @AfterMethod(alwaysRun = true)
     public void closeWindow(ITestResult result) {
         if (result.getStatus() == ITestResult.FAILURE) {
@@ -235,5 +236,34 @@ public class BaseTest {
         Reporter.log("Stopping tests");
     }
 
-}
+    public void setText(By element, String text) {
+        findElement(element).clear();
+        findElement(element).sendKeys(text);
+        findElement(element).submit();
+    }
 
+
+
+    public void waitForElement(By by) {
+
+        FluentWait<WebDriver> wait3 = new FluentWait<>(BaseTest.getDriver())
+                .withTimeout(Duration.ofSeconds(200))
+                .pollingEvery(Duration.ofMillis(1000))
+                .ignoring(NoSuchElementException.class);
+
+        Function<WebDriver, WebElement> function = new Function<WebDriver, WebElement>() {
+
+
+            public WebElement apply(WebDriver arg0) {
+//
+                WebElement element = arg0.findElement(by);
+                if (element != null) {
+                    base.Reporter.log("Element found");
+                }
+                return element;
+            }
+        };
+        wait3.until(function);
+    }
+
+}
