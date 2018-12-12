@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 public class SeleniumDocumentationPage extends BaseTest {
 
 
-    protected By searchField = By.xpath("//*[@id=\"q\"]");
+    public By searchField = By.xpath("//*[@id=\"q\"]");
 
     public SeleniumDocumentationPage searchByText(String searchText) {
         goSleep(5000);

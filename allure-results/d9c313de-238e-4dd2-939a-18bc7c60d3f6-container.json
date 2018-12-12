@@ -1,0 +1,1 @@
+{"uuid":"d9c313de-238e-4dd2-939a-18bc7c60d3f6","name":"TestGeneric","children":["998e9438-9c45-4cd4-ae92-84f4e5076ddb"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1544617105767,"stop":1544617106042}],"afters":[],"links":[],"start":1544617099248,"stop":1544617111173}

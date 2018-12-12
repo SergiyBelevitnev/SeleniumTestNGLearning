@@ -1,10 +1,18 @@
 package preset;
 
+import utils.PropKeys;
+import utils.PropertiesUtils;
+
 import java.util.Optional;
 
 public enum URL {
 
-    TESTURL("https://www.seleniumhq.org/docs/");
+
+//    TESTURL(PropertiesUtils.getProp(PropKeys.PROD_URL.getPropName()));
+
+
+    TESTURL1("https://github.com/SergiyBelevitnev/SeleniumTestNGLearning/pulls");
+//    TESTURL(PropertiesUtils.getProp(PropKeys.PROD_URL.getPropName()));
 
 
     private String address;
