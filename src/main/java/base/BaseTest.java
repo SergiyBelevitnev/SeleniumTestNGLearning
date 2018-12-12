@@ -2,27 +2,22 @@ package base;
 
 import com.aventstack.extentreports.ExtentTest;
 import com.google.common.base.Function;
-import com.google.common.base.Predicate;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
 import org.testng.annotations.Listeners;
+import utils.PropKeys;
 
-import java.awt.*;
-import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.lang.reflect.Method;
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 
@@ -36,6 +31,17 @@ public class BaseTest {
     private static ThreadLocal<ExtentTest> test = new ThreadLocal();
     private String suiteName;
     private static ThreadLocal<ExtentTest> parentTest = new ThreadLocal();
+
+    @Parameters({"UrlUrl"})
+    @BeforeSuite
+    public String urlUrl(String UrlUrl) {
+
+//        String url = PropKeys.valueOf(UrlUrl).getPropName();
+
+        System.out.println(UrlUrl);
+        return UrlUrl;
+    }
+//    }
 
 
     public void scrollToBottom() {
@@ -242,6 +248,10 @@ public class BaseTest {
         findElement(element).submit();
     }
 
+//    public void waitUntilElementBeVisible2(By element) {
+//        WebDriverWait wait5 =new WebDriverWait();
+//        wait5.until(visibilityOf(findElement(element)));
+//    }
 
 
     public void waitForElement(By by) {
